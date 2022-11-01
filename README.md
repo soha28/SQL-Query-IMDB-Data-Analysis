@@ -7,3 +7,6 @@
 
 - From this database, we can find out the best movies based on income, popularity and votes. In addition, we can also find out the best director based on the amount of Revenue from all his Movies.
 
+### TOOLS :
+SQLite, Numpy, Pandas
+
